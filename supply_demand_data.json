@@ -3645,11 +3645,11 @@
       "Industrial": 6346,
       "Res/Com": 3606,
       "Total Consumption": 20113,
-      "LNG Feed Gas": 13820,
+      "LNG Feed Gas": 13829,
       "Fuel and Pipeloss": 1150,
-      "Total Demand": 35083,
+      "Total Demand": 35092,
       "Sample Storage": 443,
-      "Implied Storage/Balancing": -3506
+      "Implied Storage/Balancing": -3515
     },
     "2026-03-17": {
       "Net Flows from Gulf of Mexico": 2041,
