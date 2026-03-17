@@ -1,0 +1,81 @@
+{
+  "PagingInfo": {
+    "page_size": 10000,
+    "page_count": 1,
+    "total_record_count": 18
+  },
+  "Data": [
+    {
+      "product": "Monterey Shale",
+      "volume_mmcfd": 255
+    },
+    {
+      "product": "Sacramento Basin",
+      "volume_mmcfd": 15
+    },
+    {
+      "product": "Other",
+      "volume_mmcfd": 12
+    },
+    {
+      "product": "Production",
+      "volume_mmcfd": 281
+    },
+    {
+      "product": "Net Flows from Desert Southwest",
+      "volume_mmcfd": 3118
+    },
+    {
+      "product": "Net Flows from Pacific Northwest",
+      "volume_mmcfd": 1380
+    },
+    {
+      "product": "Net Inflows",
+      "volume_mmcfd": 4498
+    },
+    {
+      "product": "Total Supply",
+      "volume_mmcfd": 4779
+    },
+    {
+      "product": "Power",
+      "volume_mmcfd": 1438
+    },
+    {
+      "product": "Industrial",
+      "volume_mmcfd": 1371
+    },
+    {
+      "product": "Res/Com",
+      "volume_mmcfd": 1980
+    },
+    {
+      "product": "Total Consumption",
+      "volume_mmcfd": 4790
+    },
+    {
+      "product": "Net Flows to Mexico",
+      "volume_mmcfd": 362
+    },
+    {
+      "product": "Net Outflows",
+      "volume_mmcfd": 362
+    },
+    {
+      "product": "Fuel and Pipe Loss",
+      "volume_mmcfd": 172
+    },
+    {
+      "product": "Total Demand",
+      "volume_mmcfd": 5323
+    },
+    {
+      "product": "Sample Storage",
+      "volume_mmcfd": 34
+    },
+    {
+      "product": "Implied Storage/Balancing",
+      "volume_mmcfd": -544
+    }
+  ]
+}

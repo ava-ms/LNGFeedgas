@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Canada",
+    "id": 26158
+  },
+  {
+    "name": "Mexico",
+    "id": 26160
+  },
+  {
+    "name": "Mid-Continent",
+    "id": 26105
+  },
+  {
+    "name": "Northeast",
+    "id": 26104
+  },
+  {
+    "name": "Rocky Mountain",
+    "id": 26106
+  },
+  {
+    "name": "Southeast",
+    "id": 26107
+  },
+  {
+    "name": "Texas",
+    "id": 26108
+  },
+  {
+    "name": "Western",
+    "id": 26109
+  }
+]
