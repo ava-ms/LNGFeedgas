@@ -438,17 +438,17 @@
     "2026-03-17": {
       "Canada Dry Gas Production": 19315,
       "Total Supply": 19315,
-      "Canada Total Consumption": 12317,
-      "Total Consumption": 12317,
+      "Canada Total Consumption": 12798,
+      "Total Consumption": 12798,
       "Net Flows to Pacific Northwest": 3112,
       "Net Flows to Rockies": 463,
       "Net Flows to MidCon": 1232,
       "Net Flows to Northeast": 631,
       "Net Flows": 5439,
       "LNG Feed Gas": 635,
-      "Total Demand": 18390,
+      "Total Demand": 18871,
       "Sample Storage": 1279,
-      "Implied Storage/Balancing": 1560
+      "Implied Storage/Balancing": 1078
     }
   },
   "26160": {
